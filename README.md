@@ -20,7 +20,7 @@ Nous adoptons une architecture basée sur les microservices, caractérisée par 
 - Créez un nouveau projet sur Spring Initializr avec la dépendance Eureka Server.
 - Ajoutez les configurations nécessaires dans le fichier `application.properties`.
 - Lancez le serveur Eureka.
-![Capture d'écran 1](images/EurekaServer.png)
+![Capture d'écran 1](images/eurikaserveur.PNG)
 
 ## 2. Configuration Gateway
 
