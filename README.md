@@ -72,10 +72,10 @@ Nous adoptons une architecture basée sur les microservices, caractérisée par 
 
 ### 7.1 Méthodes GET pour Client
 
-- Testez la méthode GET pour récupérer tous les clients.
-  ![Capture d'écran 1](images/EurekaServer.png)
 - Testez la méthode GET par ID pour récupérer un client spécifique.
   ![Capture d'écran 1](images/clientById.PNG)
+  ![Capture d'écran 1](images/clientById2.PNG)
+
 
 
 ### 7.2 Méthodes GET pour Voiture
